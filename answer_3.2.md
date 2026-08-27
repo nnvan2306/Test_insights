@@ -1,0 +1,1 @@
+- Về cơ bản thì cả 2 đều giống nhau đều gọi API để lấy user và trả về một Promise chứa dữ liệu user. Version B thì trông sẽ giúp code dễ đọc,dễ maintain hơn đặc biệt khi có nhiều bước xử lý.
